@@ -37,8 +37,8 @@ export function ChatPanel({
   const exampleMessages = [
     {
       heading: 'Hello World',
-      subheading: 'Hello World,
-      message: `Hello World`
+      subheading: 'Hello World',
+      message: `Hello World Hello World `
     },
     {
       heading: 'What is the price of',
