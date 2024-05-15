@@ -41,19 +41,14 @@ export function ChatPanel({
       message: `I'm feeling a little anxious today What should I do?`
     },
     {
-      heading: 'What is the price of',
-      subheading: '$DOGE right now?',
-      message: 'What is the price of $DOGE right now?'
+      heading: 'I am not sure about an important desicion',
+      subheading: 'What should I do?',
+      message: 'I am not sure about an important desicion, what should I do?'
     },
     {
-      heading: 'I would like to buy',
-      subheading: '42 $DOGE',
-      message: `I would like to buy 42 $DOGE`
-    },
-    {
-      heading: 'What are some',
-      subheading: `recent events about $DOGE?`,
-      message: `What are some recent events about $DOGE?`
+      heading: 'I am intrested in mindfullness',
+      subheading: `Could you tell me more?`,
+      message: `I am intrested in mindfullness Could you tell me more?`
     }
   ]
 
