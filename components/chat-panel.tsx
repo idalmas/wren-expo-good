@@ -46,6 +46,11 @@ export function ChatPanel({
       message: 'I am not sure about an important desicion, what should I do?'
     },
     {
+      heading: 'I want to improve how I relate to others',
+      subheading: 'What do you recommend?',
+      message: 'I want to improve how I relate to others What do you recommend?'
+    },
+    {
       heading: 'I am intrested in mindfullness',
       subheading: `Could you tell me more?`,
       message: `I am intrested in mindfullness Could you tell me more?`
