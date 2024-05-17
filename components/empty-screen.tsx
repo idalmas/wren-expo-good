@@ -18,7 +18,7 @@ export function EmptyScreen() {
           This is an open source chatbot designed to help you live a happy and healthy life!{' '}
         </p>
         <p className="leading-normal text-muted-foreground">
-          Designed by the Teenfully team. If you have feedback, we'd love to hear it. Just email hello.teenfully@app {''}
+          Designed by the Teenfully team. If you have feedback, we'd love to hear it. Just email hello.teenfully@app {' '}
         </p>
       </div>
     </div>
