@@ -14,13 +14,11 @@ export function EmptyScreen() {
           healthy life!{' '}
         </p>
         <p className="leading-normal text-muted-foreground">
-          Hello world!{' '}
+          We built this with{' '}
           <ExternalLink href="https://vercel.com/blog/ai-sdk-3-generative-ui">
-            React Server Components
+            React and and Machine Learning
           </ExternalLink>{' '}
-          to combine text with generative UI as output of the LLM. The UI state
-          is synced through the SDK so the model is aware of your interactions
-          as they happen.
+          to do our best to improve teen mental health.
         </p>
       </div>
     </div>
