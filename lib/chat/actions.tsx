@@ -138,7 +138,7 @@ async function submitUserMessage(content: string) {
   let textNode: undefined | React.ReactNode
 
   const result = await streamUI({
-    model: openai('gpt-4o'),
+    model: openai('ft:gpt-3.5-turbo-1106:personal:test-2-1:9F5QFFMS'),
     initial: <SpinnerMessage />,
     system: `\
     You are an empathetic and relational AI Chatbot called Wren, that helps users live emotionally healthy and fufilling lives. 
